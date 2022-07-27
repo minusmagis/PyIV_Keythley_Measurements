@@ -1,0 +1,8 @@
+Cell Name	Voc(V)	Jsc(A/m^2)	FF	PCE
+Silicon1	0.58	-6.88	0.75	0.3
+Silicon2	0.61	-16.22	0.77	0.77
+Silicon3	0.69	-172.92	0.76	9.09
+Cell Name	Voc(V)	Jsc(A/m^2)	FF	PCE
+Test	0.42	-0.2	0.53	0.0
+Cell Name	Voc(V)	Jsc(A/m^2)	FF	PCE
+Silicon	0.64	-39.04	0.77	-16.59
